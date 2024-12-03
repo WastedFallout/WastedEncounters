@@ -39,7 +39,7 @@ public class Settings
     [MaintainOrder]
     [SettingName("Custom Minimum Levels for Encounter Zones")]
     [Tooltip("Set the new Encounter Zone Minimum Levels manually. If an Encounter Zone is missing from the list, the Vanilla minimum level is used.")]
-    public List<EncounterZoneEntry> EncounterZonesEntries { get; set; } = new();
+    public List<EncounterZoneEntry> EncounterZonesEntries { get; set; } = [];
     
     [MaintainOrder]
     [SettingName("Maximum Level")]
@@ -49,7 +49,7 @@ public class Settings
 
 public class EncounterZoneEntry
 {
-    public List<IFormLinkGetter<IEncounterZoneGetter>> EncounterZones { get; set; } = new();
+    public List<IFormLinkGetter<IEncounterZoneGetter>> EncounterZones { get; set; } = [];
     
     public int NewMinLevel { get; set; } = -1;
 }

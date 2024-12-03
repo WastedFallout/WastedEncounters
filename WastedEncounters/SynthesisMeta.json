@@ -1,8 +1,8 @@
 {
   "Nickname": "WastedEncounters",
   "Visibility": "Visible",
-  "OneLineDescription": "",
-  "LongDescription": "",
+  "OneLineDescription": "Dynamically scale or uncap Encounter Zones for Fallout 4",
+  "LongDescription": "Manually or automatically adjust the minimum and maximum levels of all Encounter Zones in Fallout 4. Also optionally adjust the difficulty of NPC spawns based on the Encounter Zone level. By default, the settings will make Encounter Zones more difficult than Vanilla. Recommended to use along side the 'Encounter Zone Recalculation' mod.",
   "PreferredAutoVersioning": "Default",
   "RequiredMods": [],
   "TargetedReleases": [

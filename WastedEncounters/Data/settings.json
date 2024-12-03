@@ -1,0 +1,418 @@
+{
+  "PatchBaseDifficulty": true,
+  "NewGameSettings": {
+    "fLeveledActorMultEasy": 0.75,
+    "fLeveledActorMultMedium": 1.0,
+    "fLeveledActorMultHard": 1.25,
+    "fLeveledActorMultVeryHard": 1.5
+  },
+  "NeverResets": false,
+  "DisableCombatBoundary": false,
+  "MinLevelOne": false,
+  "EncounterZonesEntries": [
+    {
+      "EncounterZones": [
+        "09F372:Fallout4.esm"
+      ],
+      "NewMinLevel": 5
+    },
+    {
+      "EncounterZones": [
+        "05FAA7:Fallout4.esm"
+      ],
+      "NewMinLevel": 8
+    },
+    {
+      "EncounterZones": [
+        "017E01:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "01AC0A:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "024FB7:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "024FB9:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "024FBC:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "064EDF:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "03A509:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "04E4D8:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "0517DB:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "058BF0:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "0D9896:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "19D3EC:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "1D2082:Fallout4.esm"
+      ],
+      "NewMinLevel": 5
+    },
+    {
+      "EncounterZones": [
+        "1ED783:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "1ED786:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "1ED787:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "06E8A0:Fallout4.esm"
+      ],
+      "NewMinLevel": 12
+    },
+    {
+      "EncounterZones": [
+        "0807EB:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "0B4780:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "07D6B9:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "032191:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "024F8B:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "024FB1:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "024FBD:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "024FB2:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "024F8E:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "024FB6:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "024FBB:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "024FB5:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "248D88:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "248D89:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "248D8A:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "248D8B:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "02BB01:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "02FF7A:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "024F94:Fallout4.esm"
+      ],
+      "NewMinLevel": 20
+    },
+    {
+      "EncounterZones": [
+        "2263B8:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "227B12:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "24070E:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "19D3F1:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "19D3F3:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "19D3F5:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "19D3F7:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "19D3F9:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "19D3FB:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "19D3FD:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "01FA50:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "0233C4:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "02555F:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    },
+    {
+      "EncounterZones": [
+        "1680C2:Fallout4.esm"
+      ],
+      "NewMinLevel": 20
+    },
+    {
+      "EncounterZones": [
+        "042B41:Fallout4.esm"
+      ],
+      "NewMinLevel": 20
+    },
+    {
+      "EncounterZones": [
+        "0482CC:Fallout4.esm"
+      ],
+      "NewMinLevel": 20
+    },
+    {
+      "EncounterZones": [
+        "1BDDF3:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "01905C:Fallout4.esm"
+      ],
+      "NewMinLevel": 20
+    },
+    {
+      "EncounterZones": [
+        "0252EB:Fallout4.esm"
+      ],
+      "NewMinLevel": 20
+    },
+    {
+      "EncounterZones": [
+        "0254B9:Fallout4.esm"
+      ],
+      "NewMinLevel": 40
+    },
+    {
+      "EncounterZones": [
+        "021A89:Fallout4.esm",
+        "021A89:Fallout4.esm"
+      ],
+      "NewMinLevel": 20
+    },
+    {
+      "EncounterZones": [
+        "024FB4:Fallout4.esm"
+      ],
+      "NewMinLevel": 25
+    },
+    {
+      "EncounterZones": [
+        "021A8B:Fallout4.esm"
+      ],
+      "NewMinLevel": 30
+    },
+    {
+      "EncounterZones": [
+        "021A8C:Fallout4.esm"
+      ],
+      "NewMinLevel": 30
+    },
+    {
+      "EncounterZones": [
+        "0217A0:Fallout4.esm"
+      ],
+      "NewMinLevel": 35
+    },
+    {
+      "EncounterZones": [
+        "00805E:DLCNukaWorld.esm"
+      ],
+      "NewMinLevel": 40
+    },
+    {
+      "EncounterZones": [
+        "0199EF:Fallout4.esm"
+      ],
+      "NewMinLevel": 10
+    },
+    {
+      "EncounterZones": [
+        "148C5F:Fallout4.esm"
+      ],
+      "NewMinLevel": 25
+    },
+    {
+      "EncounterZones": [
+        "154FB6:Fallout4.esm"
+      ],
+      "NewMinLevel": 15
+    }
+  ],
+  "MaxLevel": 0
+}

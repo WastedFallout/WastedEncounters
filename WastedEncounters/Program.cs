@@ -26,7 +26,7 @@ public class Program
                 nickname: "Settings",
                 path: "settings.json",
                 out _settings)
-            .SetTypicalOpen(GameRelease.Fallout4, "YourPatcher.esp")
+            .SetTypicalOpen(GameRelease.Fallout4, "WastedEncounters.esp")
             .Run(args);
     }
 
